@@ -1,0 +1,47 @@
+body{
+    background: #e4f4fd;
+  }
+  h1{
+    text-align: center;
+    font-family: 'Goldman', cursive;
+    font-size: 4em;
+    margin-bottom: 0px;
+  }
+  .subtitle{
+    text-align: center;
+    margin-top: 5px;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  #main{
+    background: #66bde6;
+    text-align: center;
+    padding: 1em;
+  }
+  #img-div{
+    background-color: #9fe6fa;
+  }
+  #image{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  #tribute-info{
+   line-height: 1.5;
+   background-color: white;
+   padding: 5px;
+  }
+  #img-caption{
+    display: block;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  .list{
+    list-style-type: upper-roman;
+  }
+  .list_item{
+    text-align: left;
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  footer{
+    font-family: 'Noto Sans JP', sans-serif;
+  }
